@@ -144,3 +144,9 @@ body {
 .winning-message.show {
   display: flex;
 }
+
+.footer{
+ text-align: center;
+}
+
+
